@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+           "_id" : "cake1", 
+           "title": "Cake 1",
+           "image": "/images/cake-1.jpg",
+            "description": "This is our delicious homemade cake, bake with passion and love.", 
+            "price": 50,
+            "availableSizes": ["S", "M", "L"]
+        },
+        {
+            "_id": "cake2",
+            "title": "Cake 2",
+            "image": "/images/cake-2.jpg",
+            "description": "This is our delicious homemade cake, bake with passion and love.",
+            "price": 50,
+            "availableSizes": [
+                "S",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "_id": "cake3",
+            "title": "Cake 3",
+            "image": "/images/cake-3.jpeg",
+            "description": "This is our delicious homemade cake, bake with passion and love.",
+            "price": 50,
+            "availableSizes": [
+                "S",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "_id": "cake4",
+            "title": "Cake 4",
+            "image": "/images/cake-4.jpeg",
+            "description": "This is our delicious homemade cake, bake with passion and love.",
+            "price": 50,
+            "availableSizes": [
+                "S",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "_id": "cake5",
+            "title": "Cake 5",
+            "image": "/images/cake-5.jpeg",
+            "description": "This is our delicious homemade cake, bake with passion and love.",
+            "price": 50,
+            "availableSizes": [
+                "S",
+                "M",
+                "L"
+            ]
+        }
+    ]
+}
