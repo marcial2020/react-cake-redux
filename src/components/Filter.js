@@ -6,7 +6,7 @@ export default class Filter extends Component {
           <div className="filter">
             <div className="filter-result">
               {this.props.count}
-              Products
+               Products
             </div>
             <div className="filter-sort">
               Order
@@ -25,7 +25,7 @@ export default class Filter extends Component {
                 value={this.props.size}
                 onChange={this.props.filterProducts}
               >
-                <option value=" ">All</option>
+                <option value="">All</option>
                 <option value="S">S</option>
                 <option value="M">M</option>
                 <option value="L">L</option>
