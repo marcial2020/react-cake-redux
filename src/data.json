@@ -13,7 +13,7 @@
             "title": "Cake 2",
             "image": "/images/cake-2.jpg",
             "description": "This is our delicious homemade cake, bake with passion and love.",
-            "price": 50,
+            "price": 45,
             "availableSizes": [
                 "S",
                 "M",
@@ -25,7 +25,7 @@
             "title": "Cake 3",
             "image": "/images/cake-3.jpeg",
             "description": "This is our delicious homemade cake, bake with passion and love.",
-            "price": 50,
+            "price": 55,
             "availableSizes": [
                 "S",
                 "M",
@@ -37,7 +37,7 @@
             "title": "Cake 4",
             "image": "/images/cake-4.jpeg",
             "description": "This is our delicious homemade cake, bake with passion and love.",
-            "price": 50,
+            "price": 35,
             "availableSizes": [
                 "S",
                 "M",
@@ -49,7 +49,7 @@
             "title": "Cake 5",
             "image": "/images/cake-5.jpeg",
             "description": "This is our delicious homemade cake, bake with passion and love.",
-            "price": 50,
+            "price": 65,
             "availableSizes": [
                 "S",
                 "M",

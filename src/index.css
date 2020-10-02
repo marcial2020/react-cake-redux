@@ -74,7 +74,7 @@ footer{
   flex: 1 20rem;
 }
 
-/* product */
+/* products */
 
 .products{
   display: flex;
@@ -132,4 +132,14 @@ footer{
 }
 .button.primary{
   background-color: #ffc000;
+}
+
+/* filter class */
+
+.filter{
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  justify-content: space-between;
+  box-shadow: 0.1rem #c0c0c0 solid;
 }
