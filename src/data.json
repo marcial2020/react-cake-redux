@@ -52,6 +52,17 @@
             "price": 65,
             "availableSizes": [
                 "S",
+                "L"
+            ]
+        },
+        {
+            "_id": "6",
+            "title": "Cake 6",
+            "image": "/images/rumCake.jpg",
+            "description": "This is our delicious homemade cake, bake with passion and love.",
+            "price": 59,
+            "availableSizes": [
+                
                 "M",
                 "L"
             ]
